@@ -19,7 +19,7 @@ Usage:
 Install RStudio. Open file in RStudio and change the code according to you dataset for various situations and run it.
 
 
-File Description 
+File Description
 wine_clust- Script file in R language covering wine dataset scenario 
 50_startups prediction - Report file which demonstrate my approach towards result for 50 start up dataset 
 Inferance_report- Report file which demonstrate my approach towards result for winde dataset 
